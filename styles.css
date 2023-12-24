@@ -1,0 +1,122 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+section.recipe-info {
+  font-size: 37px;
+  max-width: 469px;
+  font-weight: 600;
+  word-spacing: 2px;
+}
+
+ins {
+  font-size: 19px;
+}
+
+p.pizza {
+  font-size: 18px;
+  max-width: 600px;
+  color: #5e4d4d;
+}
+
+p.pub {
+  color: #a79e9e;
+}
+
+b.bold {
+  color: #000;
+}
+
+p.ph {
+  font-size: 13px;
+  color: #9d8d8d;
+}
+
+.time {
+  background-color: #fff8f1;
+  max-width: 700px;
+  height: 125px;
+  display: flex;
+  justify-content: space-around;
+}
+
+span {
+  margin-top: 50px;
+  font-size: 20px;
+  font-family: ui-monospace;
+}
+
+p.para {
+  font-size: 23px;
+  max-width: 700px;
+  word-spacing: 2px;
+  color: #6a6565;
+  font-family: emoji;
+}
+
+h2 {
+  font-size: 34px;
+  font-weight: 700;
+}
+
+li {
+  font-size: 24px;
+  color: #766f6f;
+  font-family: emoji;
+}
+
+p {
+  font-size: 24px;
+  color: #484646;
+  font-family: emoji;
+  word-spacing: 2px;
+}
+
+button {
+  width: 245px;
+  padding: 12px;
+  color: #9b0b0b;
+  background-color: #fff;
+  border: 2px solid #6c0303;
+  font-size: 15px;
+}
+
+button:hover{
+  color: #fff;
+  background-color: #6c0303;
+  transition: 0.7s;
+  cursor: pointer;
+}
+
+article {
+  margin-left: 180px;
+  padding: 48px;
+  background-color: #fff;
+}
+
+.Reviews {
+  border: 36px solid #fff7f8;
+}
+
+.recipe-info,
+.ingredients,
+.instructions {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
